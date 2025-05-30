@@ -5,7 +5,7 @@ This repository features a stylish twist on a basic calculator — originally so
 ## 📸 Preview
 🔗 Original Repository (Credits): ShoroukAziz's Minimal Calculator
 🌐 Try it live here: [Live Demo](https://nadaqqn.github.io/pink_calculator/)
-![Preview-Pink-Calculator](preview-pink-calculator.jpg)
+![preview-pink-calculator](preview-pink-calculator.jpg)
 
 ## 🎯 Features
 This project evolved from a simple clone into a personalized creative playground! Here's what makes it special:
