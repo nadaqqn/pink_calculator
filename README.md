@@ -22,3 +22,18 @@ Built using:
 🌐 HTML  
 🎨 CSS  
 ⚙️ JavaScript  
+
+## 🚀 Future Improvements
+🌈 Theme switcher (light/dark)  
+🔢 Keyboard support  
+📱 PWA support for offline use  
+📊 History log of calculations  
+💬 Sound or haptic feedback
+
+## 🤝 Let's Collaborate!
+Have ideas or want to improve this further? Feel free to fork, contribute, or reach out!
+
+💌 linktr.ee: https://linktr.ee/qonitaqq  
+> “Innovation is the ability to see change as an opportunity – not a threat.” – Steve Jobs 🔁
+
+Thanks for stopping by! If you enjoy this little pink calculator, please give it a ⭐️ and share the love 💕
